@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
 	  <h1>Kalpana DevOps Learning</h1>
-	  <h2>Kalpana DevOps Learning</h2>
+	  <h1>Welcome to my hub</h2>
     <p>Please fill in this form to create an account.</p>
         <hr>
      
